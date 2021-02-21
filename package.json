@@ -1,0 +1,16 @@
+{
+  "name": "connectfour",
+  "version": "1.0.0",
+  "description": "connect four game",
+  "main": "index.js",
+  "scripts": {
+    "server-dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colleen Handel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
